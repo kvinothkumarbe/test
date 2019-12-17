@@ -1,0 +1,3 @@
+com\cts\flowable\delegate\ServiceDelegate.class
+com\cts\flowable\delegate\ComplianceCheckDelegator.class
+com\cts\flowable\delegate\generatePDFDelegate.class
